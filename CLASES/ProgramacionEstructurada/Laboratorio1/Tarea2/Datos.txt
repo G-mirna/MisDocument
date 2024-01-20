@@ -1,0 +1,3 @@
+Estudiante: Rosa Mirna Rivas Márquez
+Carnet: u20210003
+Enlace:https://github.com/G-mirna/ProgramacionEstructurada.git
